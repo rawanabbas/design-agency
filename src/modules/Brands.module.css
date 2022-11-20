@@ -41,3 +41,15 @@
     justify-content: center;
     align-items: center;
 }
+
+@media only screen and (max-width: 768px) {
+    .companies {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .companies {
+        grid-template-columns: 1fr 1fr;
+    }
+}
