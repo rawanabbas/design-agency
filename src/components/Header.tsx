@@ -40,11 +40,11 @@ export default class Header extends Component {
           <img src={logo} alt="Logo" className={styles.logo}/>
           <div className={styles.menu}>
               <ul>
-                <li><NavHashLink to="#home">Home</NavHashLink></li>
-                <li><NavHashLink to="#info">Your Benefits</NavHashLink></li>
-                <li><NavHashLink to="#process">Our Process</NavHashLink></li>
-                <li><NavHashLink to="#testimonials">Testimonials</NavHashLink></li>
-                <li><NavHashLink to="#work">Our Work</NavHashLink></li>
+                <li><NavHashLink scroll={(el) => el.scrollIntoView({ behavior: 'smooth' })} to="#home">Home</NavHashLink></li>
+                <li><NavHashLink scroll={(el) => el.scrollIntoView({ behavior: 'smooth' })} to="#info">Your Benefits</NavHashLink></li>
+                <li><NavHashLink scroll={(el) => el.scrollIntoView({ behavior: 'smooth' })} to="#process">Our Process</NavHashLink></li>
+                <li><NavHashLink scroll={(el) => el.scrollIntoView({ behavior: 'smooth' })} to="#testimonials">Testimonials</NavHashLink></li>
+                <li><NavHashLink scroll={(el) => el.scrollIntoView({ behavior: 'smooth' })} to="#work">Our Work</NavHashLink></li>
               </ul>
           </div>
           <button className={styles['action-btn']}>Get Started</button>
