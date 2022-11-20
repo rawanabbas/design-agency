@@ -12,28 +12,6 @@ export default class Footer extends Component {
       <div className={styles.footer}>
         <div className={styles.cont}>
           <img src={logo} alt="" />
-          <div className={styles.menu}>
-            <ul>
-              <li>
-                Home
-              </li>
-              <li>
-                Your Benefits
-              </li>
-              <li>
-                Our Process
-              </li>
-              <li>
-                Our Work
-              </li>
-              <li>
-                Testimonials
-              </li>
-              <li>
-                Start a Project
-              </li>
-            </ul>
-          </div>
           <div className={styles.sm}>
             <ul>
               <li><img src={facebook} alt="Facebook" /></li>
@@ -43,13 +21,8 @@ export default class Footer extends Component {
           </div>
         </div>
         <div className={styles.cont}>
-          <div className={styles.year}>20XX Company</div>
-          <div className={styles.misc}>
-            <ul>
-              <li>Privacy Policy</li>
-              <li>Terms of Service</li>
-            </ul>
-          </div>
+          <div className={styles.year}>This a demo landing page for demonstration purposes only. Design was inspired by <a href="https://dribbble.com/O2D" >Outline2Design</a>'s shot on dribbble found <a href="https://dribbble.com/shots/15221070-Digital-agency-landing-page-freebie">here</a></div>
+          <div className={styles.year}>Logos were courstesy of <a href="https://logoipsum.com/">Logoipsum</a> By <a href="https://www.signalsupply.co/">Signal Supply</a></div>
         </div>
       </div>
     )
