@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/design-agency/static/css/main.5441acbd.css",
+    "main.js": "/design-agency/static/js/main.900feba0.js",
+    "static/js/787.7e7b426d.chunk.js": "/design-agency/static/js/787.7e7b426d.chunk.js",
+    "static/media/dashboard.png": "/design-agency/static/media/dashboard.69f919e2ed39b007ea1e.png",
+    "static/media/work.png": "/design-agency/static/media/work.3c60f9a33e093f92287e.png",
+    "static/media/results.png": "/design-agency/static/media/results.9e9b19576df2c6278444.png",
+    "static/media/audit.png": "/design-agency/static/media/audit.549da9a0efc3c23d2118.png",
+    "static/media/tracking.png": "/design-agency/static/media/tracking.c417fd075cc171427827.png",
+    "static/media/lc8.svg": "/design-agency/static/media/lc8.a43d1bcfa2d1d4e4e6eb46150c14caa5.svg",
+    "static/media/lc10.svg": "/design-agency/static/media/lc10.f9e14a1c32c6e8eab8368ff9ff6395c4.svg",
+    "static/media/logo.svg": "/design-agency/static/media/logo.109bba832e481aac3a825f1878e1de1a.svg",
+    "static/media/lc6.svg": "/design-agency/static/media/lc6.8f4a8ebd08dd86485e77d77544822b15.svg",
+    "static/media/lc3.svg": "/design-agency/static/media/lc3.ca1d5d26ee8b117de7f73cc87f8b6ff4.svg",
+    "static/media/lc9.svg": "/design-agency/static/media/lc9.0c966e9dc3307486a5258091b20b505d.svg",
+    "static/media/lc7.svg": "/design-agency/static/media/lc7.3d99e32be60ecac4bd5d79be4005ab78.svg",
+    "static/media/lc4.svg": "/design-agency/static/media/lc4.1053a4c283f4071e5520388b305a9c25.svg",
+    "static/media/lc5.svg": "/design-agency/static/media/lc5.f473f88b3c909713605481b56b030dfd.svg",
+    "static/media/lc1.svg": "/design-agency/static/media/lc1.a26bc7d4febd61148a6a7236e4f7163b.svg",
+    "static/media/lc2.svg": "/design-agency/static/media/lc2.55dd8a729e4130ae16dd2e4264d7c0cf.svg",
+    "static/media/user.svg": "/design-agency/static/media/user.71fa05c4781dfebebf4fea91bd0911b9.svg",
+    "static/media/discount.svg": "/design-agency/static/media/discount.c2d8a9537518a5be2f6c52610eb959e5.svg",
+    "static/media/graph.svg": "/design-agency/static/media/graph.958f876acdc0470db4886920a81211e8.svg",
+    "static/media/chart.svg": "/design-agency/static/media/chart.0bf108b5516b7ef1d2f618dac1f891cd.svg",
+    "static/media/twitter.svg": "/design-agency/static/media/twitter.76d07828491967e33652388b9e3dfaff.svg",
+    "static/media/bag.svg": "/design-agency/static/media/bag.f17da1d291c106a748c2a22c178d4ddd.svg",
+    "static/media/search-1.svg": "/design-agency/static/media/search-1.a5833e5919aee8ff4ff3532ca52bcebc.svg",
+    "index.html": "/design-agency/index.html",
+    "static/media/instagram.svg": "/design-agency/static/media/instagram.04e67dab258cc01675c8ce8a1cebdf05.svg",
+    "static/media/facebook.svg": "/design-agency/static/media/facebook.d0f0b1a07ca3b26e82a6e50ffe84ac3d.svg",
+    "main.5441acbd.css.map": "/design-agency/static/css/main.5441acbd.css.map",
+    "main.900feba0.js.map": "/design-agency/static/js/main.900feba0.js.map",
+    "787.7e7b426d.chunk.js.map": "/design-agency/static/js/787.7e7b426d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5441acbd.css",
+    "static/js/main.900feba0.js"
+  ]
+}
