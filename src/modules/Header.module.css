@@ -1,0 +1,39 @@
+.header {
+    position: absolute;
+    width: 100%;
+    z-index: 1000;
+    top: 0;
+}
+
+.sticky {
+    position: fixed !important;
+    background: linear-gradient(60deg, rgba(84, 58, 183, 1) 0%, rgba(0, 172, 193, 1) 100%);
+}
+
+.logo {
+    height: 100px;
+    width: 200px;
+    padding: 15px;
+    margin-left: 5%;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu {
+    width: 55%;
+}
+
+.menu > ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    color: white;
+}
+
+.action-btn {
+    margin-right: 15%;
+}

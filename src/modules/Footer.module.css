@@ -1,0 +1,59 @@
+.footer {
+    /* height: 25vh; */
+    background: #000;
+}
+
+.cont {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu > ul {
+    display: flex;
+    list-style: none;
+}
+
+.menu  li {
+    margin: 12px;
+}
+
+.sm > ul {
+    display: flex;
+    list-style: none;
+}
+
+.sm li {
+    margin: 12px;
+}
+
+.cont:first-child {
+    border-bottom: 1px solid var(--text-color);
+    margin-bottom: 12px;
+}
+
+.year {
+    margin: 12px;
+    margin-top: 0;
+}
+
+.misc > ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0;
+}
+
+.misc li {
+    margin: 12px;
+    margin-top: 0;
+}
