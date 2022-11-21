@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/design-agency/static/css/main.5441acbd.css",
-    "main.js": "/design-agency/static/js/main.900feba0.js",
+    "main.js": "/design-agency/static/js/main.7d2ecb88.js",
     "static/js/787.7e7b426d.chunk.js": "/design-agency/static/js/787.7e7b426d.chunk.js",
     "static/media/dashboard.png": "/design-agency/static/media/dashboard.69f919e2ed39b007ea1e.png",
     "static/media/work.png": "/design-agency/static/media/work.3c60f9a33e093f92287e.png",
@@ -25,16 +25,16 @@
     "static/media/chart.svg": "/design-agency/static/media/chart.0bf108b5516b7ef1d2f618dac1f891cd.svg",
     "static/media/twitter.svg": "/design-agency/static/media/twitter.76d07828491967e33652388b9e3dfaff.svg",
     "static/media/bag.svg": "/design-agency/static/media/bag.f17da1d291c106a748c2a22c178d4ddd.svg",
-    "static/media/search-1.svg": "/design-agency/static/media/search-1.a5833e5919aee8ff4ff3532ca52bcebc.svg",
     "index.html": "/design-agency/index.html",
+    "static/media/search-1.svg": "/design-agency/static/media/search-1.a5833e5919aee8ff4ff3532ca52bcebc.svg",
     "static/media/instagram.svg": "/design-agency/static/media/instagram.04e67dab258cc01675c8ce8a1cebdf05.svg",
     "static/media/facebook.svg": "/design-agency/static/media/facebook.d0f0b1a07ca3b26e82a6e50ffe84ac3d.svg",
     "main.5441acbd.css.map": "/design-agency/static/css/main.5441acbd.css.map",
-    "main.900feba0.js.map": "/design-agency/static/js/main.900feba0.js.map",
+    "main.7d2ecb88.js.map": "/design-agency/static/js/main.7d2ecb88.js.map",
     "787.7e7b426d.chunk.js.map": "/design-agency/static/js/787.7e7b426d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5441acbd.css",
-    "static/js/main.900feba0.js"
+    "static/js/main.7d2ecb88.js"
   ]
 }
